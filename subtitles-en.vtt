@@ -1,0 +1,417 @@
+WEBVTT
+
+1
+00:00:00.079 --> 00:00:05.187
+[MUSIC]
+
+2
+00:00:05.187 --> 00:00:09.968
+I want to discuss why the Programming
+Languages course is actually on Coursera,
+
+3
+00:00:09.968 --> 00:00:14.030
+three courses Part A, Part B, Part C,
+why we made that decision and
+
+4
+00:00:14.030 --> 00:00:16.194
+how the three pieces fit together.
+
+5
+00:00:16.194 --> 00:00:20.314
+So the biggest reason we split it into
+three parts is because it's a large
+
+6
+00:00:20.314 --> 00:00:22.486
+course, there's a lot of material.
+
+7
+00:00:22.486 --> 00:00:26.490
+People who've finished the entire course,
+Part A, Part B and Part C,
+
+8
+00:00:26.490 --> 00:00:29.651
+have spent somewhere between 100 and
+200 hours.
+
+9
+00:00:29.651 --> 00:00:34.946
+It very much depends on the person and
+how quickly they go through the material.
+
+10
+00:00:34.946 --> 00:00:38.765
+And so it just seemed like a lot,
+the way most modern courses,
+
+11
+00:00:38.765 --> 00:00:42.521
+online courses are at this point
+to call that all one course.
+
+12
+00:00:42.521 --> 00:00:45.766
+This is something that corresponds
+to something that students in
+
+13
+00:00:45.766 --> 00:00:47.241
+my university do over a 10 or
+
+14
+00:00:47.241 --> 00:00:51.430
+11 week period while they're not trying to
+do a lot of other things in their lives,
+
+15
+00:00:51.430 --> 00:00:54.689
+although they are taking a couple
+other courses at the same time.
+
+16
+00:00:54.689 --> 00:00:57.777
+Now splitting it up was not easy for
+me to do.
+
+17
+00:00:57.777 --> 00:01:02.946
+If you can imagine writing a novel and
+then having someone say,
+
+18
+00:01:02.946 --> 00:01:06.850
+I really only want to read
+the first few chapters.
+
+19
+00:01:06.850 --> 00:01:09.350
+That's kind of how I feel
+splitting up the course.
+
+20
+00:01:09.350 --> 00:01:10.967
+It really does all fit together,
+
+21
+00:01:10.967 --> 00:01:15.081
+there are cross-cutting themes that only
+really make sense once you get to the end.
+
+22
+00:01:15.081 --> 00:01:19.563
+There are neat things that tie together
+once you get into Part B and Part C.
+
+23
+00:01:19.563 --> 00:01:23.278
+There are contrasts that we can't
+do until late in the course.
+
+24
+00:01:23.278 --> 00:01:27.844
+And overall, I've put a lot of thought
+into what is in this course and
+
+25
+00:01:27.844 --> 00:01:32.724
+just as importantly, what is not,
+to have it all sort of packaged up as one
+
+26
+00:01:32.724 --> 00:01:36.698
+piece that tells a consistent
+story from beginning to end.
+
+27
+00:01:36.698 --> 00:01:41.375
+And I cannot emphasize enough how much
+I want all of you to participate all
+
+28
+00:01:41.375 --> 00:01:43.687
+the way through to the end of Part C.
+
+29
+00:01:43.687 --> 00:01:47.893
+And, indeed, the goal here was not to
+split it into three courses that try to
+
+30
+00:01:47.893 --> 00:01:48.879
+make more money or
+
+31
+00:01:48.879 --> 00:01:53.115
+make you think you're doing three
+times more than you're actually doing.
+
+32
+00:01:53.115 --> 00:01:56.691
+And usually, when I say the course,
+I mean everything.
+
+33
+00:01:56.691 --> 00:02:01.544
+So what I've done here is basically
+argue that I shouldn't have split it up,
+
+34
+00:02:01.544 --> 00:02:05.740
+but obviously we did, so
+let me now explain the reasons why we did.
+
+35
+00:02:05.740 --> 00:02:09.890
+The biggest one is that there's just more
+material and it's more challenging and
+
+36
+00:02:09.890 --> 00:02:14.930
+you in some sense deserve the credit for
+completing three courses worth of material
+
+37
+00:02:14.930 --> 00:02:19.610
+and the places where we split it
+are reasonable intermediate milestones.
+
+38
+00:02:19.610 --> 00:02:23.660
+They are places where you should feel
+very proud of getting that far and
+
+39
+00:02:23.660 --> 00:02:27.930
+if you choose to go no further,
+you will have learned something and
+
+40
+00:02:27.930 --> 00:02:33.750
+they sort of are reasonable
+stopping points that make sense.
+
+41
+00:02:33.750 --> 00:02:37.000
+So you deserve recognition for that,
+it's something that when we had
+
+42
+00:02:37.000 --> 00:02:41.500
+everything together, as we did when we
+first offered this MOOC, we didn't have.
+
+43
+00:02:41.500 --> 00:02:45.860
+And so I think that's a great
+step in a really good direction.
+
+44
+00:02:45.860 --> 00:02:48.742
+It will also give you a chance
+to take a break, if you will.
+
+45
+00:02:48.742 --> 00:02:52.457
+As you go through Part A,
+you really don't want to lose momentum.
+
+46
+00:02:52.457 --> 00:02:56.676
+You want to do each piece of the course
+in sort of consecutive weeks, so
+
+47
+00:02:56.676 --> 00:02:59.098
+that you can keep track of everything.
+
+48
+00:02:59.098 --> 00:03:03.719
+But if you wanted to take a couple weeks
+off or a month off before starting Part B.
+
+49
+00:03:03.719 --> 00:03:06.862
+Well, it might be a little tough
+to remember where you were and
+
+50
+00:03:06.862 --> 00:03:10.790
+get started again but, again,
+because it's a reasonable stopping point,
+
+51
+00:03:10.790 --> 00:03:12.983
+I actually think that
+makes a lot of sense.
+
+52
+00:03:12.983 --> 00:03:17.842
+And so it's a way that kind of let
+you go through the overall course at
+
+53
+00:03:17.842 --> 00:03:22.018
+a slower pace by going sort of
+at a certain pace for Part A and
+
+54
+00:03:22.018 --> 00:03:25.791
+then taking a break before
+Part B that sort of thing.
+
+55
+00:03:25.791 --> 00:03:29.585
+So in terms of how it breaks down,
+I say unfortunately,
+
+56
+00:03:29.585 --> 00:03:34.290
+each part of the course is done in
+a different programming language.
+
+57
+00:03:34.290 --> 00:03:38.160
+I say unfortunate because it feeds
+back into this idea that the parts of
+
+58
+00:03:38.160 --> 00:03:42.835
+courses are about the languages where I
+keep emphasizing that they're really not.
+
+59
+00:03:42.835 --> 00:03:45.876
+But nonetheless,
+that is how things break down.
+
+60
+00:03:45.876 --> 00:03:48.849
+I should also emphasize that we
+didn't break it into thirds, right?
+
+61
+00:03:48.849 --> 00:03:53.832
+We picked the reasonable stopping points,
+and the way that worked out
+
+62
+00:03:53.832 --> 00:03:58.067
+is Part B is definitely the biggest
+part of the three parts.
+
+63
+00:03:58.067 --> 00:04:01.978
+And could we divide Part A into two
+smaller pieces, maybe we could but
+
+64
+00:04:01.978 --> 00:04:06.300
+I don't see a natural breaking point,
+so I didn't, all right?
+
+65
+00:04:06.300 --> 00:04:10.710
+So the way this breaks down is that
+Part A has three homework assignments and
+
+66
+00:04:10.710 --> 00:04:14.300
+then a fourth substantial section
+that has no homework assignment but
+
+67
+00:04:14.300 --> 00:04:20.840
+does have an exam, so to finish Part A,
+is really four major units of the course.
+
+68
+00:04:20.840 --> 00:04:26.290
+Then Part B is only two more units, so
+about half the size of Part A, although,
+
+69
+00:04:26.290 --> 00:04:30.620
+the second of those units has what's
+usually considered the most challenging,
+
+70
+00:04:30.620 --> 00:04:33.500
+and also most rewarding
+homework in the course.
+
+71
+00:04:33.500 --> 00:04:37.752
+And then Part C, where we study object
+oriented programming and then compare and
+
+72
+00:04:37.752 --> 00:04:41.504
+contrast it back with the functional
+programming that we do in Part A and
+
+73
+00:04:41.504 --> 00:04:44.778
+Part B, has just another two homeworks but
+then a final exam.
+
+74
+00:04:44.778 --> 00:04:50.723
+And that exam focuses
+mostly on Parts B and C.
+
+75
+00:04:50.723 --> 00:04:52.952
+because you'll notice Part B
+doesn't have an exam.
+
+76
+00:04:52.952 --> 00:04:56.914
+But refers a little bit to contrast with
+Part A, because when you get to the end of
+
+77
+00:04:56.914 --> 00:05:00.127
+the course you'll see that that's
+an appropriate thing to do.
+
+78
+00:05:00.127 --> 00:05:04.144
+So altogether,
+things are one course in three parts.
+
+79
+00:05:04.144 --> 00:05:05.885
+I hope you appreciate that.
+
+80
+00:05:05.885 --> 00:05:10.370
+It's perhaps obvious, but I'll say it,
+that you can't really do Part B without
+
+81
+00:05:10.370 --> 00:05:13.360
+Part A and you can't really
+do Part C without Parts A and
+
+82
+00:05:13.360 --> 00:05:16.850
+Part B because they often
+refer back to earlier parts.
+
+83
+00:05:16.850 --> 00:05:19.340
+And that's the story of how
+we divided things up and
+
+84
+00:05:19.340 --> 00:05:22.300
+we hope that you make the most
+of the material available to you
+
+85
+00:05:22.300 --> 00:05:23.950
+in the way that makes
+the most sense to you.
